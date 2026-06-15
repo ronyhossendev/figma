@@ -5,7 +5,7 @@ import { TiAdjustBrightness } from 'react-icons/ti'
 import Card from '../common/card'
 import oneIcon from "/src/assets/icon.png"
 import twoIcon from "/src/assets/Frame.png"
-import three from "/src/assets/lock.png"
+import three from "/src/assets/Lock.png"
 import four from "/src/assets/video.png"
 import { HiArrowUpRight } from 'react-icons/hi2'
 
