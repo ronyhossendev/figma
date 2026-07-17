@@ -75,14 +75,7 @@ const Header = () => {
                 Contact
               </Link>
             </li>
-            <li>
-              <Link
-                className="text-[#16px] font- font-normal text-[#242B36]  hover:text-[#FA8C00]  duration-300 "
-                to="Rony"
-              >
-                Rony
-              </Link>
-            </li>
+            
             <li>
               <Link
                 className="text-[#16px] font- font-normal text-[#242B36]  hover:text-[#FA8C00]  duration-300 "

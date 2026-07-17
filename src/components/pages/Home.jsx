@@ -4,7 +4,7 @@ import Jobs from './Jobs'
 import Talents from './Talents'
 import Subscriptions from './Subscriptions'
 import Pages from './Pages'
-import Rony from './Rony'
+
 import Contact from './Contact'
 import Service from './Service'
 
@@ -16,7 +16,7 @@ const Home = () => {
     <Talents/>
     <Subscriptions/>
     <Pages/>
-    <Rony/>
+   
     <Contact/>
     <Service/>
     </>

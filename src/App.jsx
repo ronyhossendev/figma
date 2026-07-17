@@ -7,7 +7,7 @@ import Talents from './components/pages/Talents'
 import Pages from './components/pages/Pages'
 import Contact from './components/pages/Contact'
 import Subscriptions from './components/pages/Subscriptions'
-import Rony from './components/pages/Rony'
+
 import Service from './components/pages/Service'
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
     <Route path='subscriptions' element={<Subscriptions/>}/>
     <Route path='Pages' element={<Pages/>}/>
     <Route path='Contact' element={<Contact/>}/>
-    <Route path='rony' element={<Rony/>}/>
+    
     <Route path='service' element={<Service/>}/>
 
     </Route>
